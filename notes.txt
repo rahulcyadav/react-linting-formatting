@@ -1,0 +1,3 @@
+npx npm-check-updates -u -t minor
+npm cache clean --force
+npm cache verify
