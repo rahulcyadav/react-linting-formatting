@@ -4,6 +4,8 @@
   "editor.formatOnSaveMode": "file",
   "editor.codeActionsOnSave": {
     "source.fixAll": true
-    // "source.organizeImports": true
-  }
+  },
+  "eslint.lintTask.enable": true,
+  "eslint.codeActionsOnSave.mode": "all",
+  "eslint.debug": true
 }
